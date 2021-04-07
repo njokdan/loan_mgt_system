@@ -1,0 +1,79 @@
+The Loan Management System is simple web application and friendly user, develop in in PHP MySQL, using HTML, CSS, JavaScript, Modal, Ajax, and Bootstrap. This system it contains of admin to manage data entry, the admin can add staff to monitor application, delete update, check loan interest, and check loan types.
+
+Admin Dashboard
+
+Loan, Payment, Borrowers, Loans Plans, Loan Type, User.
+
+Home
+
+Payment Today, View Payments, Borrowers, View Borrowers, Active Loans, View Loan List, Total Receivable, View Loan List.
+
+Loans
+
+Loan List, Show Entries, Search, Number Entry, Borrower, Loan Details, Next Payment Details, Status, and Create New Application.
+
+Payment
+
+List Payment, Number of Entry, Loan Reference Number, Payee, Amount, Penalty, New Payment, Edit, Delete, Show Entries, and Search.
+
+Borrowers
+
+Borrower List, Number of Entry, Borrower, Current Loan, Next Payment Schedule, New Borrower, Edit, Delete, Show Entries, and Search.
+
+Loans Plans
+
+Plan’ Form, Interest, Monthly Overdue Penalty, Show Data of Entries.
+
+Loan Types
+
+Loan Form, Type Name, Description, Number Entry, Loan Type, Edit, and Delet.
+
+User
+
+Name, Number of Entries, Username, Edit, Delete, and Add New User.
+
+Loa Management System
+
+Name of Project:     Loan Management System
+Language Used:      PHP
+Database Used:      My SQL
+Design Interface:    Bootstrap JavaScript, HTML, Ajax, JQuery,
+Browser:                  Opera Mozilla Google Chrome IE8,
+Software:                 WAMP/ XAMPP/ LAMP/MAMP
+About System
+
+ 
+
+How to setup this project
+
+Step 1st. Download xampp
+
+Step 2nd. Text editor notepad++ or Sublime
+
+Step 3rd. Download the zip file/ Download winrar
+
+Step 4th. Extract the file and copy “Loan_Management_System” folder
+
+Step 5th. Paste inside root directory/ where you install xampp local disk C: drive D: drive E: paste: for xampp/htdocs,
+
+Step 6th. Open PHPMyAdmin http://localhost/phpmyadmin
+
+Step 7th. Create database name loan_db
+
+Step 8th. Import loan_db.sql file given inside the zip package in SQL file folder
+
+Step 9th. Run the script http://localhost/ Loan_Management_System  
+
+Step 10th. Password: Username: admin / Password: admin123
+
+ 
+
+System Images
+
+ 
+
+
+
+
+
+
